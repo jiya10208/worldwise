@@ -1,0 +1,12 @@
+Outlet element 
+so as we load we  will see nothing but when we manually write those "to" we can see the elements defined earlier 
+
+so it saw initially app url and later realise there is cities part too. so then it became loop routing. 
+
+
+"usenavigate" : use to navigate to some other path. for exame session time out page in a website or home page after submitting a form
+Pass the delta you want to go in the history stack. For example, navigate(-1) is equivalent to hitting the back button
+options.replace
+
+"useparams" :  hook returns an object of key/value pairs of the dynamic params from the current URL 
+"useSearchParams" brings the url 
